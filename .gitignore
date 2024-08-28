@@ -1,0 +1,14 @@
+#creds
+.env
+
+#Folders
+venv
+
+#py
+app_final.py
+app_final2.py
+app.py
+Mongo Final App Students Data.py
+
+#Jupyter Files
+test.ipynb
